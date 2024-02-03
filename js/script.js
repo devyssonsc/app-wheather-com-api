@@ -1,5 +1,5 @@
-//Variáveis e selaçãode elementos
-const apiKey = "95efa740d2c65087ee8a19dfd32984c0";
+//Variáveis e selação de elementos
+const apiKey = "";
 const apiCountryURL = "https://flagsapi.com/"
 
 const cityInput = document.querySelector("#city-input");
